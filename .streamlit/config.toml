@@ -1,0 +1,15 @@
+# OptiSolve - Clean modern engineering theme (English UI)
+# Professional, technical aesthetic for Upwork portfolio
+
+[theme]
+primaryColor = "#1E3A5F"
+backgroundColor = "#FAFBFC"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#2C3E50"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

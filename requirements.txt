@@ -1,0 +1,5 @@
+streamlit
+pulp
+plotly
+google-generativeai
+pandas
